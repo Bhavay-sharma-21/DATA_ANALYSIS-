@@ -16,7 +16,7 @@
       based on the nature of the data and the analysis goals.
 
 * ### Interpretation of Results:
-     Analyzing the output of models and statistical tests to draw meaningful conclusions. This may involve making predictions, identifying patterns, or gaining insights into the underlying processes.
+      Analyzing the output of models and statistical tests to draw meaningful conclusions. This may involve making predictions, identifying patterns, or gaining insights into the underlying processes.
 
 * ### Visualization and Communication:
       Presenting the findings in a clear and understandable way through charts, graphs, reports, or other visualizations. Effective communication of results is essential for stakeholders to make informed decisions.
