@@ -2,7 +2,7 @@
 ## What is data analysis ?
 -Data analysis is the process of inspecting, cleaning, transforming, and modeling data to uncover useful information, draw conclusions, and support decision-making. It involves a variety of techniques and methods to extract meaningful insights from raw data. The primary goal of data analysis is to discover patterns, trends, correlations, and other relevant information that can aid in understanding a phenomenon or making informed decisions.
 ## Key step for data analysis process.
-* ###Data Collection: Gathering relevant data from various sources. This could involve surveys, experiments, sensors, databases, or other means of data collection.
+* ### Data Collection:<br> Gathering relevant data from various sources. This could involve surveys, experiments, sensors, databases, or other means of data collection.
 
 * ###Data Cleaning: Cleaning and preprocessing the data to handle missing values, outliers, and inconsistencies. This step is crucial to ensure the quality and reliability of the analysis.
 
